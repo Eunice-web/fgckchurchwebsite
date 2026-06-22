@@ -18,12 +18,12 @@
     { name: "Evagelist John Mwangi", role: "Church Evangelist", img: "Eva-john.jpeg" },
     { name: "Deaconess Ann Njoroge", role: "Church Deaconess", img: "deacon-ann.jpeg" },
     { name: "Deaconess Racheal Mwangi", role: "Church Deaconess", img: "deacon-racheal.jpeg" },
-    { name: "Deaconess Grace Kung'u", role: "Church Deaconess/Women leader", img: "deacon-grace.jpeg" },
+    { name: "Deaconess Grace Kung'u", role: "Church Deaconess/Women Chair", img: "deacon-grace.jpeg" },
     { name: "Deacon Dominic Wanyoike", role: "Church Deacon", img: "deacon-wanyoike.jpeg" },
     { name: "Deacon Michael Mwangi", role: "Church Deacon", img: "deacon-mwangi.jpeg" },
     { name: "Deacon Kelvin Njoroge", role: "Church Deacon", img: "deacon-kelvin.jpeg" },
-    { name: "Paul Munene", role: "Men leader", img: "#" },
-    { name: "Hannah Wanjiru", role: "Youths leader", img: "hannah.jpeg" }
+    { name: "Paul Munene", role: "Men's Chair", img: "munene.jpeg" },
+    { name: "Hannah Wanjiru", role: "Youth's chair", img: "hannah.jpeg" }
   ];
 
   const galleryItems = [
